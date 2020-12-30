@@ -1,0 +1,3 @@
+[submodule "movieapi"]
+	path = movieapi
+	url = https://git.ajou.ac.kr/rjdm1324/movieapi.git
